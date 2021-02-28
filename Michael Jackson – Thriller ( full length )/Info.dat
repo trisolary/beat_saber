@@ -1,0 +1,112 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Thriller ",
+  "_songSubName": "",
+  "_songAuthorName": "Michael Jackson",
+  "_levelAuthorName": "Majorpickle",
+  "_beatsPerMinute": 118.3499984741211,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 90,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": []
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 15,
+          "_noteJumpStartBeatOffset": 0.20000000298023224,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 0.6196079,
+              "g": 0.09411765,
+              "b": 0.1333333
+            },
+            "_colorRight": {
+              "r": 0.3490196,
+              "g": 0,
+              "b": 0.7019608
+            },
+            "_envColorLeft": {
+              "r": 0.8235294,
+              "g": 0.05882353,
+              "b": 0.07843138
+            },
+            "_envColorRight": {
+              "r": 0.2509804,
+              "g": 0,
+              "b": 0.5019608
+            },
+            "_obstacleColor": {
+              "r": 0.5019608,
+              "g": 0.2784314,
+              "b": 0.2156863
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    },
+    {
+      "_beatmapCharacteristicName": "360Degree",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "Expert360.dat",
+          "_noteJumpMovementSpeed": 15,
+          "_noteJumpStartBeatOffset": 0.20000000298023224,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 0.6196079,
+              "g": 0.09411765,
+              "b": 0.1333333
+            },
+            "_colorRight": {
+              "r": 0.3490196,
+              "g": 0,
+              "b": 0.7019608
+            },
+            "_envColorLeft": {
+              "r": 0.8235294,
+              "g": 0.05882353,
+              "b": 0.07843138
+            },
+            "_envColorRight": {
+              "r": 0.2509804,
+              "g": 0,
+              "b": 0.5019608
+            },
+            "_obstacleColor": {
+              "r": 0.5019608,
+              "g": 0.2784314,
+              "b": 0.2156863
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}
